@@ -8,4 +8,4 @@ The project also explores the influence of inflation rates on debt management, p
 
 Ultimately, the International Debt Analysis Project serves as a valuable tool for assessing debt sustainability and economic performance across nations, providing key insights into the challenges of debt management in an increasingly interconnected global economy.
 
-#NOTE: Certain values, excel graphs, codes, and data are not being visualized properly due to data processing issues, this is being worked on.
+**NOTE:** _Certain values, excel graphs, codes, and data are not being visualized properly due to data processing issues, this is being worked on._
